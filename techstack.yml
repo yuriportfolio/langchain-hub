@@ -1,7 +1,8 @@
 repo_name: yuriportfolio/langchain-hub
 report_id: 6299d715259a7b831c66326a0bd8d6a2
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T20:01:05+00:00'
+timestamp: '2024-01-04T15:13:15+00:00'
 requested_by: rbehal
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/yuriportfolio/langchain-hub
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuriportfolio/langchain-hub
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/yuriportfolio/langchain-hub/blob/master/.github/workflows/file-check.yml
   detection_source: ".github/workflows/file-check.yml"
   last_updated_by: Harrison Chase
   last_updated_on: 2023-01-11 05:46:56.000000000 Z
